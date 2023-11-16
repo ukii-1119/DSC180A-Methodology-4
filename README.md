@@ -1,4 +1,2 @@
 # DSC180A-Methodology-4
-
-Tiffany Yu
-z5yu@ucsd.edu
+Tiffany Yu and Keyu Long
